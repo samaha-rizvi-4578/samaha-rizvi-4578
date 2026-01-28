@@ -32,7 +32,7 @@
 
 | Project | Tech | Description | Link |
 |---------|------|-------------|------|
-| **FYP: Type 2 Diabetic Gene ID** 🧬 | Python, R, Cytoscape | Bilayer network combining gene regulatory & PPI data; PageRank algorithm to rank disease genes | [GitHub](https://github.com/samaha-rizvi-4578/FYP_PrioritizingType2DiabetiesGenes) |
+| **FYP: Type 2 Diabetic Gene** 🧬 | Python, R, Cytoscape | Bilayer network combining gene regulatory & PPI data; PageRank algorithm to rank disease genes | [GitHub](https://github.com/samaha-rizvi-4578/FYP_PrioritizingType2DiabetiesGenes) |
 | **The Bridge of Hopes – Educational Platform** 📚 | Django, PostgreSQL | Backend for special-needs education platform; REST APIs, scalable DB schemas, performance tracking | [Website](https://thebridgeofhopes.com/) |
 | **Pinterest Pin Automation** 📌 | Django, Python, Gemini API | Automated scraping, SEO-optimized pins, OAuth, 20 pins/day | [GitHub](https://github.com/samaha-rizvi-4578/pin_forge) |
 | **Travel Journal App** 🌍 | Flutter, Firebase | Cross-platform travel app with mood, budget, geolocation & offline caching | [GitHub](https://github.com/samaha-rizvi-4578/Travel-Journal-flutter) |
@@ -77,6 +77,11 @@
 [![Web Dev, DevDay](https://img.shields.io/badge/Web%20Dev-Developer's%20Day-red)]()
 [![Hackathons](https://img.shields.io/badge/SayabiDevs-Hackathons-purple)]()
 [![Speed Programming](https://img.shields.io/badge/Speed%20Programming-Procom-yellow)]()
+
+---
+### 📊 GitHub Stats
+
+![Samaha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samaha-rizvi-4578&show_icons=true&theme=radical)
 
 ---
 
